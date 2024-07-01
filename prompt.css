@@ -1,0 +1,31 @@
+*
+{
+   background-color: antiquewhite;
+}
+
+input[type="button"]
+ {
+ width:320px;
+ height: 35px;
+ border: none;
+ background-color:#49c1a2;
+ color:white;
+ font-size:18px;
+ text-align: center;
+ margin-top: 250px;
+ margin-bottom: 100px;
+ margin-left: 150px;
+ }
+   input:hover
+   {
+      background-color: rgb(210, 105, 30);
+      color:color-mix(in hsl shorter hue, color percentage, color percentage);
+   }
+   h1{
+        text-align: center;
+        block-size: 20px;
+   }
+ 
+
+ 
+ 
